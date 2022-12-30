@@ -1,8 +1,8 @@
 # 👋 Olá! Meu nome é Vitor
 
 - 🔭 &nbsp; Atualmente estou trabalhando no [Itaú-Unibanco](https://www.itau.com.br).
-- 💻 &nbsp; Angular, JS, TS, Sass, Flutter.
-- 🌱 &nbsp; Estou estudando **AWS, Swift e Kotlin**.
+- 💻 &nbsp; Angular, JS, TS e Sass.
+- 🌱 &nbsp; Estou estudando **AWS e Swift**.
 - 📫 &nbsp; Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/vitor-campos-8721a0142/)
 
 #### 💡 &nbsp; Stacks:
@@ -40,8 +40,8 @@
 _______
 
 
-<div>
+<!-- <div>
 <a href="https://github.com/vitor-vmc">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-vmc&layout=compact&langs_count=7"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-vmc&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
